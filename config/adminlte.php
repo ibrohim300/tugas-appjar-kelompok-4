@@ -273,9 +273,15 @@ return [
 
         [
             'text' => 'Abstrack List',
-            'route'  => 'author.submission',
+            'route'  => 'committee.idx',
             'icon' => 'far fa-fw fa-file-alt',
             'roles' => 'committee',
+        ],
+        [
+            'text' => 'Submit Submission',
+            'route'  => 'author.submission',
+            'icon' => 'far fa-fw fa-file-alt',
+            'roles' => 'author',
         ],
        
 

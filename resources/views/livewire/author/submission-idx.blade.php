@@ -14,7 +14,7 @@
                         @livewire('author.submission')
                     </div>
                     <div class="card-footer text-muted">
-                        <i>sympozia(c)2021</i>
+                        <i>Sympozia ©2022</i>
                     </div>
                 </div>
             </div>
